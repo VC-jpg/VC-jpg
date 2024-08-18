@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Vanesa! 👋</h1>
+<h1 align="center">¡Hola, soy Vanesa! 👋😸</h1>
 <h3 align="center">Desarrolladora Full Stack & Diseñadora Web</h3>
 
 <p align="center">
@@ -17,20 +17,25 @@ Soy una desarrolladora Full Stack apasionada por el diseño web, el desarrollo f
   <img src="https://skillicons.dev/icons?i=linux,html,css,js,react,nodejs,electron,mysql,mongodb,py,tailwind,bootstrap,vscode,figma,androidstudio,blender,django,webflow&perline=10" />
 </div>
 
+##  
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VC-jpg&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VC-jpg&layout=compact&langs_count=7&theme=light"/>
 </div>
 
 ## 📬 Contacto
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cidvanesam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-FBC9C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/vanesa-cid-5b78731a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-C4D5FB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://wa.me/56940381809">
-    <img src="https://img.shields.io/badge/Phone-34b7f1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+    <img src="https://img.shields.io/badge/Whatsapp-D9FBC4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
   </a>
+   <a href="https://vc-portafolio.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-F9CEF3?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio"/>
+   </a>
 </div>
